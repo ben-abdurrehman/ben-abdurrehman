@@ -2,3 +2,7 @@
 ## Front-end Web developer<br><br>
 ### <ul><li> 🌱 I’m currently learning and React.js</li><br><li>💞️ I’m looking to get a front-end website project</li><br><li>😄 Pronouns: his, he, him, them</li><br><li>⚡ Fun fact: body workout and gardening</li></ul><br>
 📫 How to reach me<br><ul><li><a href="https://www.linkedin.com/in/abdurrehman-waseem/">LinkedIn </a></li><br><br><li><a href="https://www.upwork.com/freelancers/~01669495152aa87771/"> Upwork </a></a></li><br><br><li><a href="https://www.fiverr.com/abdurrehmanw110/">Fiver</a></a></li><br><br><li><a href="mailto:benabdurrehman@gmail.com">benabdurrehman@gmail.com</a></a></li><br><br></ul>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
