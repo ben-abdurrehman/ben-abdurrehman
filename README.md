@@ -4,5 +4,5 @@
 📫 How to reach me<br><ul><li><a href="https://www.linkedin.com/in/abdurrehman-waseem/">LinkedIn </a></li><br><br><li><a href="https://www.upwork.com/freelancers/~01669495152aa87771/"> Upwork </a></a></li><br><br><li><a href="https://www.fiverr.com/abdurrehmanw110/">Fiver</a></a></li><br><br><li><a href="mailto:benabdurrehman@gmail.com">benabdurrehman@gmail.com</a></a></li><br><br></ul>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ben-abdurrehman&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
