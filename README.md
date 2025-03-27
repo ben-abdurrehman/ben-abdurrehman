@@ -16,6 +16,4 @@
 ![Anime.js](https://img.shields.io/badge/Anime.js-FF6F61?style=for-the-badge&logo=anime.js&logoColor=white)
 
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ben-abdurrehman&theme=dark" alt="GitHub Streak">
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ben-abdurrehman&theme=github-dark-blue)](https://git.io/streak-stats)
