@@ -14,6 +14,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Anime.js](https://img.shields.io/badge/Anime.js-FF6F61?style=for-the-badge&logo=anime.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ben-abdurrehman&theme=github-dark-blue)](https://git.io/streak-stats)
